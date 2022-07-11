@@ -1,0 +1,14 @@
+.Phonetic span{
+padding-right: 8px;
+}
+
+.Phonetic .Phonetic-audio-icon{
+    margin-right: 10px;
+    width: 30px;
+    transition: all 100ms ease-in-out;
+}
+
+.Phonetic .Phonetic-audio-icon:hover{
+    width: 35px;
+    cursor: pointer;
+}

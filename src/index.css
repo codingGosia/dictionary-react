@@ -1,0 +1,13 @@
+body {
+  background: url(./images/background.png);
+  background-position: bottom right;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 50%;
+}
+
+@media (max-width: 768px) {
+  body {
+    background: none;
+  }
+}
