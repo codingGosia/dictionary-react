@@ -9,7 +9,7 @@
 }
 
 .App h1 {
-  color: #ed4856;
+  color: #0A9EBA;
   font-size: 52px;
   margin: 30px 0 20px;
 }
@@ -21,7 +21,7 @@
 }
 
 .App footer a {
-  color: #ff848e;
+  color: #70d3e7;
 }
 
 @media (max-width: 768px) {
